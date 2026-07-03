@@ -109,7 +109,7 @@ button:hover{
 .history-page{
     display:none;
     width:380px;
-min-height:620px;
+    min-height:600px;
     background:#f6f2f2;
     border-radius:30px;
     box-shadow:0 15px 35px rgba(0,0,0,0.18);
@@ -122,17 +122,17 @@ min-height:620px;
     margin-bottom:25px;
 }
 .history-header h2{
-    font-size:38px;
+    font-size:30px;
     color:#222;
 }
 .back-btn,
 .delete-btn{
-    width:65px;
-    height:65px;
+    width:55px;
+    height:55px;
     border-radius:50%;
     border:none;
     background:#ddd;
-    font-size:33px;
+    font-size:30px;
     cursor:pointer;
 }
 .back-btn:hover,
