@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The Responsive Calculator Web Application is built using **HTML, CSS, and JavaScript** to perform basic arithmetic operations through a clean and interactive user interface. The project demonstrates front-end web development concepts such as responsive design, DOM manipulation, event handling, and dynamic calculations.
+The Responsive Calculator Web Application is built using **HTML, CSS, and JavaScript** to perform basic arithmetic operations through a clean and interactive user interface. The project demonstrates front-end web development concepts such as responsive design, DOM manipulation, event handling, and dynamic calculations. 
 
 The calculator provides a smooth user experience across desktop, tablet, and mobile devices, making it suitable for everyday mathematical calculations.
 
